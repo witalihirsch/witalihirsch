@@ -5,5 +5,7 @@
 ### Mono Project Preview
 
 <div style="display: flex; flex-direction: column;">
-  [<img src="images/logo.png" width=128px>](https://witalihirsch.github.io/mono.html)
+    <a href="https://witalihirsch.github.io/mono.html">
+    	<img src="images/logo.png" width="128px">
+    </a>
 </div>
