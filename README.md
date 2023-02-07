@@ -6,7 +6,7 @@
 
 
 <div align="center">
-	<font size="5">Mono Project Preview</font>
+	<p style="font-size: 24px;"><b>Mono Project Preview</b></p>
     <a href="https://witalihirsch.github.io/mono.html">
     	<img src="images/logo.png" width="150px" >
     </a>
