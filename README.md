@@ -14,7 +14,7 @@
 
 <div align="center">
     <a href="https://github.com/witalihirsch/Mono-gtk-theme">
-    	<img src="images/mono-gtk-theme.png" width="600px" >
+    	<img src="images/mono-gtk-theme.png" width="1vw" >
     </a>
         <a href="https://github.com/witalihirsch/Mono-firefox-theme">
     	<img src="images/mono-firefox-theme.png" width="600px" >
