@@ -10,9 +10,9 @@
     </a>
 </div>
 
-## My Repositories
+## Repositories
 
-<div align="center">
+<div>
     <a href="https://github.com/witalihirsch/Mono-gtk-theme">
     	<img src="images/mono-gtk-theme.png" width="400px" >
     </a>
