@@ -4,8 +4,8 @@
 
 ### Mono Project Preview
 
-<div style="display: flex; flex-direction: column;">
+<div align="center">
     <a href="https://witalihirsch.github.io/mono.html">
-    	<img src="images/logo.png" width="128px">
+    	<img src="images/logo.png" width="150px" >
     </a>
 </div>
