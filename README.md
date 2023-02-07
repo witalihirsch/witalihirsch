@@ -1,6 +1,6 @@
 ## Hi there 🐱
 
-![Witali Hirsch's GitHub stats](https://github-readme-stats.vercel.app/api?username=witalihirsch&show_icons=true&theme=tokyonight)
+![Witali Hirsch's GitHub stats](https://github-readme-stats.vercel.app/api?username=witalihirsch&show_icons=true&theme=transparent)
 
 ## Mono Project Preview
 
