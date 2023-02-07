@@ -12,9 +12,9 @@
 
 ## Repositories
 
-<div align="center" width="1vw">
+<div align="center">
     <a href="https://github.com/witalihirsch/Mono-gtk-theme">
-    	<img src="images/mono-gtk-theme.png" width="10em" >
+    	<img src="images/mono-gtk-theme.png" width="500em" >
     </a>
         <a href="https://github.com/witalihirsch/Mono-firefox-theme">
     	<img src="images/mono-firefox-theme.png" width="600px" >
