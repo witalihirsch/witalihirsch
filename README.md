@@ -12,7 +12,7 @@
 
 ## Repositories
 
-<div>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/witalihirsch/Mono-gtk-theme">
     	<img src="images/mono-gtk-theme.png" width="400px" >
     </a>
