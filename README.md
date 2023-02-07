@@ -8,6 +8,7 @@
     <a href="https://witalihirsch.github.io/mono.html">
     	<img src="images/logo.png" width="250px" >
     </a>
+    <p>Press on image</p>
 </div>
 
 ## Repositories
