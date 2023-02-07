@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://witalihirsch.github.io/mono.html">
-    	<img src="images/logo.png" width="250px" >
+    	<img src="images/logo.png" width="400px" >
     </a>
     <p>Press on image</p>
 </div>
