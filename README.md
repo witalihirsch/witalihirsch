@@ -15,7 +15,7 @@
 
 <div align="center">
     <a href="https://witalihirsch.github.io/mono.html">
-    	<img src="images/logo.png" height="180px" >
+    	<img src="images/logo.png" width="400px" >
     </a>
     <p>Press on image</p>
 </div>
@@ -24,18 +24,18 @@
 
 <div align="center">
     <a href="https://github.com/witalihirsch/Mono-gtk-theme">
-    	<img src="images/mono-gtk-theme.png" height="85px" >
+    	<img src="images/mono-gtk-theme.png" width="600px" >
     </a>
     <a href="https://github.com/witalihirsch/Mono-firefox-theme">
-    	<img src="images/mono-firefox-theme.png" height="85px" >
+    	<img src="images/mono-firefox-theme.png" width="600px" >
     </a>
     <a href="https://github.com/witalihirsch/Mono-icon-theme">
-    	<img src="images/mono-icon-theme.png" height="85px" >
+    	<img src="images/mono-icon-theme.png" width="600px" >
     </a>
     <a href="https://github.com/witalihirsch/qBitTorrent-fluent-theme">
-    	<img src="images/qbittorrent-fluent-theme.png" height="85px" >
+    	<img src="images/qbittorrent-fluent-theme.png" width="600px" >
     </a>
     <a href="https://github.com/witalihirsch/QTWin11">
-    	<img src="images/qtwin11.png" height="85px" >
+    	<img src="images/qtwin11.png" width="600px" >
     </a>
 </div>
