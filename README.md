@@ -1,7 +1,8 @@
 ## Hi there 🐱
 
+![Witali Hirsch's GitHub stats](https://github-readme-stats.vercel.app/api?username=witalihirsch&show_icons=true&theme=tokyonight)
+
 <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=witalihirsch&show_icons=true&theme=tokyonight"></a>
     <a href="mailto:witalihirsch1@gmail.com">
         <img src="images/email.png" height="85px" >
     </a>
@@ -14,7 +15,7 @@
 
 <div align="center">
     <a href="https://witalihirsch.github.io/mono.html">
-    	<img src="images/logo.png" width="400px" >
+    	<img src="images/logo.png" height="180px" >
     </a>
     <p>Press on image</p>
 </div>
