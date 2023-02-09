@@ -1,8 +1,7 @@
 ## Hi there 🐱
 
-![Witali Hirsch's GitHub stats](https://github-readme-stats.vercel.app/api?username=witalihirsch&show_icons=true&theme=tokyonight)
-
 <div align="center">
+    ![Witali Hirsch's GitHub stats](https://github-readme-stats.vercel.app/api?username=witalihirsch&show_icons=true&theme=tokyonight)
     <a href="mailto:witalihirsch1@gmail.com">
         <img src="images/email.png" height="85px" >
     </a>
