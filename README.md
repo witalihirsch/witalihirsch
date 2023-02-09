@@ -4,10 +4,10 @@
 
 <div align="center">
     <a href="mailto:witalihirsch1@gmail.com">
-        <img src="images/email.png" height="85px" >
+        <img src="images/email.png" width="350px" >
     </a>
     <a href="https://www.patreon.com/witalihirsch">
-        <img src="images/patreon.png" height="85px" >
+        <img src="images/patreon.png" width="350px" >
     </a>
 </div>
 
