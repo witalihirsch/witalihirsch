@@ -1,7 +1,5 @@
 ## Hi there 🐱
 
-![Witali Hirsch's GitHub stats](https://github-readme-stats.vercel.app/api?username=witalihirsch&show_icons=true&theme=tokyonight)
-
 <div align="center">
     <a href="mailto:witalihirsch1@gmail.com">
         <img src="images/email.png" width="350px" >
@@ -14,7 +12,7 @@
 ## Mono Project Preview
 
 <div align="center">
-    <a href="https://witalihirsch.github.io/mono.html">
+    <a href="https://witalihirsch.github.io/websites/mono/">
     	<img src="images/logo.png" width="400px" >
     </a>
     <p>Press on image</p>
